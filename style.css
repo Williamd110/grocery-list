@@ -1,0 +1,82 @@
+.list-dry,.list-ing,.flour-img{
+    display: inline-block;
+    vertical-align: text-bottom;
+    background-color: rgb(158, 227, 229);
+    width: 150px;
+    border: 10px solid blue ;
+    border-radius: 5px;
+    
+}
+.body{
+    background-color: black;
+}
+.main-title{
+    color: rgb(95, 1, 20);
+    font-style: italic;
+    background-color: antiquewhite;
+    background-size: contain;
+}
+.flour-img{
+    display: inline-block;
+height: auto;
+width: 195px;}
+.list-meat,.list-veg,.steak-img{
+    display: inline-block;
+    vertical-align: text-bottom;
+    background-color: rgb(248, 80, 80);
+    width: 150px;
+    border: 10px solid rgb(83, 0, 0) ;
+}
+.ref-block{
+vertical-align:bottom;
+text-align: center;
+border-color: red;
+border-radius: 20%;
+border:10px solid;
+margin-left: 900px;
+margin-right: 900px;
+}
+/* look up view width/height */
+.dry-goods{
+    vertical-align: bottom;
+    text-align: center;
+    border:10px solid;
+    padding:10px;
+    border-color: rgb(31, 143, 241);
+border-radius: 20%;
+margin-left: 900px;
+margin-right: 900px;
+    
+}
+.dry-goods{block-size: auto;}
+.list-ing{
+    align-items: left;
+    text-align: left;
+}
+.list-dry{
+    text-align: left;
+}
+h3{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.dry-title{
+    text-align: center;
+}
+.refr-title{
+    text-align: center;
+}
+.list-meat{
+    text-align: left;
+}
+.list-veg{
+    text-align: left;
+}
+
+.steak-img{
+    display: inline-block;
+    height: auto;
+    width: 195px;
+}
